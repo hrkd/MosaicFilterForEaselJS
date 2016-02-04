@@ -1,6 +1,6 @@
 # MosaicFilterForEaselJS
 MosaicFilter for EaselJS
 
-```
-new createjs.MosaicFilter(Bitmap)]
+```javascript
+new createjs.MosaicFilter(Bitmap);
 ```
