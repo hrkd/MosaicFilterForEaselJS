@@ -2,5 +2,7 @@
 MosaicFilter for EaselJS
 
 ```javascript
-new createjs.MosaicFilter(Bitmap);
+myBitMapInstance.filters = [
+  new createjs.MosaicFilter(Bitmap myBitmapInstance[,int dotsize])
+];
 ```
